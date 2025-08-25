@@ -1,8 +1,8 @@
-## Hi there 👋
+## Halo Semua!👋
 
-<!--
-**rayasesan/rayasesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Perkenalkan nama saya **Raya Sesan**.<br>
+**rayasesan/rayasesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rayasesann/)ku ya.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
