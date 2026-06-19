@@ -61,7 +61,7 @@ AI-powered nutrition recommendation system featuring food image classification, 
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/raya-sesan-firdaus
-- GitHub: https://github.com/USERNAME
+- GitHub: https://github.com/rayasesan
 
 ---
 
