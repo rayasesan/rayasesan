@@ -4,12 +4,6 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-- 🎓 Informatics Engineering Student at **Universitas Gunadarma** (Semester 6)
-- 👨‍🏫 Laboratory Assistant, and **AI Engineer Cohort** (Coding Camp 2026 DBS Foundation x Dicoding)
-- 📊 Focused on **Data Science, Machine Learning & Business Intelligence**
-- 🔭 Currently building end-to-end data projects: cleaning → EDA → modeling → dashboard
-
 <p align="center">
   <a href="https://github.com/rayasesan" target="_self">
     <img
