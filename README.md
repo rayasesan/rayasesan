@@ -3,13 +3,17 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi%20Im%20Raya%20Sesan%20👋&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn&gradientAngle=135" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rayasesan&label=Profile+Views&color=4F46E5&style=flat" />
+</p>
 <br>
 
 ## 👨‍💻 About Me
 - 🎓 Informatics Engineering Student at **Universitas Gunadarma** (Semester 6)
-- 👨‍🏫 Laboratory Assistant, and **AI Engineer Cohort** – Coding Camp 2026 DBS Foundation x Dicoding
+- 👨‍🏫 Laboratory Assistant, and **AI Engineer Cohort** (Coding Camp 2026 DBS Foundation x Dicoding)
 - 📊 Focused on **Data Science, Machine Learning & Business Intelligence**
-- 🔭 Currently building end-to-end data projects — cleaning → EDA → modeling → dashboard
+- 🔭 Currently building end-to-end data projects: cleaning → EDA → modeling → dashboard
 - 🌱 Leveling up **advanced Machine Learning, SQL, and Power BI**
 
 <p align="center">
@@ -102,12 +106,12 @@
 
 ## 📂 Featured Projects
 
-- 🔍 **[Customer Churn Prediction](https://github.com/rayasesan/customer-churn-prediction)** — classification model to predict customer churn with business-driven insights.
-- 🏦 **[Bank Marketing Prediction](https://github.com/rayasesan/bank-marketing-prediction)** — predictive modeling of customer response to marketing campaigns.
-- 💳 **[Credit Risk Prediction](https://github.com/rayasesan/credit-risk-prediction)** — ML model assessing loan default risk for financial decision-making.
-- 🗃️ **[Bank Marketing SQL Analysis](https://github.com/rayasesan/bank-marketing-sql-analysis)** — CTEs, window functions, and conversion-rate analysis in SQL.
-- 📊 **[Telco Customer Churn Dashboard](https://github.com/rayasesan/telco-customer-churn-dashboard-powerbi)** — interactive Power BI dashboard for churn monitoring.
-- 🥗 **[Nutrify](https://github.com/rayasesan/Project-Utama)** — AI-powered nutrition recommendation system with food image classification and chatbot integration.
+- 🔍 **[Customer Churn Prediction](https://github.com/rayasesan/customer-churn-prediction)**: classification model to predict customer churn with business-driven insights.
+- 🏦 **[Bank Marketing Prediction](https://github.com/rayasesan/bank-marketing-prediction)**: predictive modeling of customer response to marketing campaigns.
+- 💳 **[Credit Risk Prediction](https://github.com/rayasesan/credit-risk-prediction)**: ML model assessing loan default risk for financial decision-making.
+- 🗃️ **[Bank Marketing SQL Analysis](https://github.com/rayasesan/bank-marketing-sql-analysis)**: CTEs, window functions, and conversion-rate analysis in SQL.
+- 📊 **[Telco Customer Churn Dashboard](https://github.com/rayasesan/telco-customer-churn-dashboard-powerbi)**: interactive Power BI dashboard for churn monitoring.
+- 🥗 **[Nutrify](https://github.com/rayasesan/Project-Utama)**: AI-powered nutrition recommendation system with food image classification and chatbot integration.
 
 ## 🐍 Contribution Snake
 
@@ -116,6 +120,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayasesan/rayasesan/output/github-contribution-grid-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/rayasesan/rayasesan/output/github-contribution-grid-snake.svg" />
 </picture>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 </p>
 
 ## 📫 Connect With Me
