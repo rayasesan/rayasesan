@@ -43,6 +43,11 @@
   </a>
 </p>
 
+## ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
