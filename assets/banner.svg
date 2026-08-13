@@ -1,0 +1,31 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <rect width="900" height="200" fill="url(#dots)"/>
+  <rect x="0" y="0" width="8" height="200" fill="url(#accent)"/>
+
+  <text x="48" y="92" font-family="Segoe UI, Verdana, sans-serif" font-size="40" font-weight="700" fill="#ffffff">
+    Hi, I'm Raya Sesan Firdaus <tspan fill="#F2C811">👋</tspan>
+  </text>
+  <text x="48" y="130" font-family="Segoe UI, Verdana, sans-serif" font-size="19" fill="#a5b4fc">
+    Data Scientist · Machine Learning Enthusiast · Building data-driven solutions
+  </text>
+
+  <text x="48" y="168" font-family="Consolas, monospace" font-size="15" fill="url(#accent)">
+    &lt;/&gt; Python · SQL · Power BI · Machine Learning
+  </text>
+</svg>

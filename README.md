@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rayasesan" target="_self">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi%20Im%20Raya%20Sesan%20👋&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn&gradientAngle=135" />
+    <img src="https://raw.githubusercontent.com/rayasesan/rayasesan/main/assets/banner.svg" width="100%" />
   </a>
 </p>
 
